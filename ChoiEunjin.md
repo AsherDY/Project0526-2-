@@ -1,7 +1,7 @@
 Group Number : 11
 Name : Choi Eunjin
-Github : https://gitub.com/ChoiEunjin
-------------------------------------------
+Github : https://github.com/ChoiEunjin
+
 
 # Plan about *Final announcement*
 
