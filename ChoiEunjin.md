@@ -1,4 +1,4 @@
-#Plan about *Final announcement*
+# Plan about *Final announcement*
 
 1.**Use Mid-announcement PPT file**
 >We can find our ppt file on [EL](http://el.koreatech.ac.kr)
