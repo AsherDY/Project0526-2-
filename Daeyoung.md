@@ -24,18 +24,18 @@ Github : AsherDy
 
 3. Link
 	* [reference-style link][link]
-[link]: http://www.google.com
 	* [inline-style link](https://www.google.com)
 
+[link]: https://www.google.com
 4. Image
-![ImageError](http://some-url.com/a.png)
+![ImageError](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo title text 1")
 
 5. Table
-|       Table       |
+|---|:-:|---|---|---|
 | 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|
+|---|:-:|---|:-:|--:|
 | 6 | 7 | 8 | 9 | 0 |
-|-------------------|
+
 
 6. Code
 ```C
