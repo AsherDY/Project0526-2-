@@ -22,4 +22,6 @@ printf("This is 11th team. Listen careully.\n");
 ```
 
 5.**Print out the Image**
-<http://www.lakecountyohio.gov/portals/41/presentations.jpg>
+![image]
+
+[image]: http://www.lakecountyohio.gov/portals/41/presentations.jpg
