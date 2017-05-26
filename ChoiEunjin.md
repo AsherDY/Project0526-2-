@@ -2,19 +2,19 @@
 
 1.**Use Mid-announcement PPT file**
 >We can find our ppt file on [EL](http://el.koreatech.ac.kr)
-* Define the problem
-* Search and analysis
-* Requirement and solution
-* System structure design
++ Define the problem
++ Search and analysis
++ Requirement and solution
++ System structure design
 
 2.**Add new thing**
-*Realistic consideration
 
 3.**Write member**
-| Number | Name |
-|--------|------|
-|  1     | ADY  |
-|  2     | CEJ  |
+
+Number | Name
+-------|------
+1|ADY
+2|CEJ
 
 4.**Coding**
 ```C++
