@@ -6,7 +6,10 @@ Github : https://github.com/ChoiEunjin
 # Plan about *Final announcement*
 
 1.**Use Mid-announcement PPT file**
->We can find our ppt file on [EL](http://el.koreatech.ac.kr)
+>We can find our ppt file on 
+> [EL_INLINE_LINK](http://el.koreatech.ac.kr)
+> [EL_REFERENCE_LINK][link]
+[link]: http://el.koreatech.ac.kr
 + Define the problem
 + Search and analysis
 + Requirement and solution
