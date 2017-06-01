@@ -2,6 +2,10 @@ Group Number : 11
 Name : Choi Eunjin
 Github : https://github.com/ChoiEunjin
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 93c91ff3ca756c0f9ec33de56ff48c8160c63bc3
 # Plan about *Final announcement*
 
 1.**Use Mid-announcement PPT file**
